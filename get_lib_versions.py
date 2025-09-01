@@ -3,6 +3,7 @@ packages = [
     "langchain_core",
     "langchain",
     "python-dotenv",
+    "streamlit"
     # "ipykernel",
     # "langchain_groq",
     # "langchain_google_genai",
